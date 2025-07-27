@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1 align='center'>
+  Hi ! :wave: I'm Harshit
+</h1>
 
+Hi there! I'm a Computer Science undergraduate currently exploring the world of programming. I'm learning Python and building a solid foundation in the basics of software development. I'm passionate about problem-solving and always excited to learn new technologies. This space is where I share my coding journey and projects as I grow!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshxt27&show_icons=true&hide_border=true&theme=chartreuse-dark)
+<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshxt27&layout=compact&theme=github_dark)
 <!--
 **harshxt27/harshxt27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
